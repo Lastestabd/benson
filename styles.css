@@ -36,7 +36,7 @@
 }
 
 .logo {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-weight: 700;
   font-family: var(--header-font);
 }
@@ -552,6 +552,7 @@ nav {
     gap: 4rem 2rem;
   }
 }
+
 
 
 
